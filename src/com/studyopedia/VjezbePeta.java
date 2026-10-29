@@ -2,6 +2,7 @@ package com.studyopedia;
 
 import java.util.Scanner;
 
+
 public class VjezbePeta {
 
 	// Drugi zadatak
