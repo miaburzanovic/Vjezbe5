@@ -163,7 +163,8 @@ public class VjezbePeta {
 			else {
 				novi.append('0');
 			}
-}
+
+		}
 		System.out.println(novi);
 	}
 }
